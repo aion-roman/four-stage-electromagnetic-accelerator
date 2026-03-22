@@ -61,3 +61,5 @@ It was found that even small changes in sensor position significantly affect per
 
 ## Safety Notice
 This repository is provided for documentation purposes only. I do not encourage or endorse replication of this project. Any attempt to reproduce or use the information presented here is done entirely at the user's own risk and responsibility. Users must comply with all applicable laws and safety regulations.
+
+This project is licensed under the CC BY-NC-ND 4.0 License.
