@@ -5,7 +5,10 @@ This project presents the design, simulation, construction, and experimental stu
 
 The accelerator uses sequential activation of electromagnetic coils to accelerate a ferromagnetic projectile, with control implemented via a microcontroller and position sensors.
 
-![device](media/view/overall-view.jpg)
+## Video
+Watch the full project video here:
+[![Watch the video](media/build-process/coilgun-preview.png)](https://youtu.be/nWJSD_XifSM?si=jNZGONw3rfwUcmIw)
+https://youtu.be/nWJSD_XifSM?si=jNZGONw3rfwUcmIw
 
 ## Key Features
 - 4-stage electromagnetic acceleration system
