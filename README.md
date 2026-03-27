@@ -7,8 +7,8 @@ The accelerator uses sequential activation of electromagnetic coils to accelerat
 
 ## Video
 Watch the full project video here:
-[![Watch the video](media/build-process/coilgun-preview.png)](https://youtu.be/nWJSD_XifSM?si=jNZGONw3rfwUcmIw)
-https://youtu.be/nWJSD_XifSM?si=jNZGONw3rfwUcmIw
+[![Watch the video](media/build-process/coilgun-preview.png)](https://youtu.be/cELHIlVWsvM?si=opqlc6a6_jUCVKcN)
+https://youtu.be/cELHIlVWsvM?si=opqlc6a6_jUCVKcN
 
 ## Key Features
 - 4-stage electromagnetic acceleration system
