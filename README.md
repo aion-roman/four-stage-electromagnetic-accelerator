@@ -26,7 +26,7 @@ https://youtu.be/cELHIlVWsvM?si=opqlc6a6_jUCVKcN
 - Created full 3D CAD model of the device
 - Conducted experimental testing and data collection
 - Analyzed efficiency and compared simulation with real results
-- Wrote a full research paper (30 pages)
+- Wrote a full research paper (24 pages)
 
 ## Design
 The device consists of four electromagnetic coils powered by individual capacitors (1000 µF, up to 420 V each). The system is controlled by an ESP32 microcontroller, which receives signals from infrared sensors detecting projectile position.
